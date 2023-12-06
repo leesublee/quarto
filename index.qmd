@@ -1,6 +1,5 @@
 # Lesson 1 : Dividened Minds {.unnumbered}
 
-## 10월 18일, 분열된 마음
 
 ### 의견 불일치 경험
 
@@ -44,9 +43,9 @@
 
 Step 1. Identify when your elephant is taking charge.내 코끼리가 폭주하고 있는지 확인한다. Step 2. Imagine a different perspective.
 
-#Lesson 2 : Us and Them
+# Lesson 2 : Us and Them
 
-## recap
+### recap
 직관체계와 추론체계의 특징
 직관쳬계 : 빠르다, 무의식적이다, 자동적이다, 감정적이다.
 추론체계 : 느리다, 의식적이다, 노력을 해야한다, 논리적이다.
@@ -88,7 +87,7 @@ Step 1. Identify when your elephant is taking charge.내 코끼리가 폭주하�
 도덕직관이 강력하게 우리를 이끈다.
 
 
-###moral foundation
+### moral foundation
 돌봄 기반 : 다른 사람을 돌보는 것, 위해를 막는 것
 공감, 친절함을 우선시 하는 사람들.
 
@@ -109,7 +108,7 @@ Step 1. Identify when your elephant is taking charge.내 코끼리가 폭주하�
 우리의 삶의 경험이 우리의 도덕관점을 형성하는데 큰영향을 미친다.
 우리는 사람들의 언어를 통해서 그사람들을 잘 해석할 수 있다.
 
-## Lesson 3 : Get Curious
+# Lesson 3 : Get Curious
 
 탐색하고자 하는 마음가짐이 필요하다
 탐험가적 마음가짐
@@ -171,7 +170,7 @@ What's one thing you want to remember from this lesson? 탐험가의 자세
 What's one way you might use this takeaway in your life? 다른 사람들과 논쟁에서 서로 기분이 상하지 않고 논쟁하고 싶을 때
 
 
-## Lesson 4 : 스토리텔링
+# Lesson 4 : 스토리텔링
 
 어떻게 사람의 마음을 공감시킬 것인지?
 
@@ -197,7 +196,7 @@ Restate Values and Feelings : 다시한번 재진술 즉, 가치와 느낌을 �
 
 Empathize : 공감하라.
 
-## Lesson 5 Navigating COnflict
+# Lesson 5 Navigating COnflict
 
 다른 사람들의 의견을 듣고 반응해야한다.
 
@@ -232,3 +231,9 @@ Empathize : 공감하라.
 잠깐 쉬어라.
 대화를 끊는 것과 다르게 다시 이야기 해야한다.
 
+
+# 수업 소감
+소통은 매우 중요한 기술이며, 수업을 통해 그 중요성을 다시 한 번 깨닫게 되었다.
+효과적인 소통은 사람들 간의 관계를 향상시키고, 협력과 효율성을 증진시키는 핵심 요소이다.
+이 수업을 통해서 소통에 관련한 다양한 원리, 뇌의 정보처리방식 등을 배울 수 있어서 좋았다. 실생활에서도 사용할 수 있기 때문이다.
+또한 소통을 할 때 상대방을 배려하는 방법, 상대방과의 논쟁에서의 라이프핵을 배울 수 있어 유용한 수업이었다. 
